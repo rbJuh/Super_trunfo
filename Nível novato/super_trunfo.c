@@ -2,7 +2,7 @@
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
-// Sistema de cadastro de cartas de cidades.
+// Nível novato.
 
 int main() {
 
