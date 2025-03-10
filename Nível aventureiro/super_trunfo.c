@@ -2,7 +2,7 @@
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
-// Sistema de cadastro de cartas de cidades.
+// Nível aventureiro.
 
 // Variáveis da carta 1
 char estado1;                // Letra do estado (A, B, C, ..., H)
